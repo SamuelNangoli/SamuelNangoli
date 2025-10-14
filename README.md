@@ -14,7 +14,7 @@
 
 <img  alt="my stats" align = "left" width = "47%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelNangoli&layout=compact&bg_color=ffffff00&text_color=ffffff"/> 
 
-  ![GitHub Streak](https://streak-stats.demolab.com?user=SamuelNangoli&theme=transparent) 
+![GitHub Streak](https://streak-stats.demolab.com?user=SamuelNangoli&theme=transparent) 
 
 
 ### General Prupose Programming Languages
