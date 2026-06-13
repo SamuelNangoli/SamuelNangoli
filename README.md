@@ -1,6 +1,6 @@
 # Hi, I'm Samuel Nangoli <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Dark%20Skin%20Tone.png" alt="Waving Hand Medium-Dark Skin Tone" width="34"/>
 
-I’m a tech enthusiast and creative thinker who loves exploring new ideas and projects that challenge me to grow. My curiosity drives me to experiment with technology, learn new tools, and apply what I discover through hands-on projects. I also enjoy working on video content — collaborating with friends and turning concepts into engaging visuals.
+I’m  a tech enthusiast and creative thinker who loves exploring new ideas and projects that challenge me to grow. My curiosity drives me to experiment with technology, learn new tools, and apply what I discover through hands-on projects. I also enjoy working on video content — collaborating with friends and turning concepts into engaging visuals.
 
 I believe in learning by doing, adapting quickly, and staying open to new opportunities that expand both my skills and perspective. Whether it’s diving into a new tech trend, creating digital content, or finding smarter ways to solve problems, I’m always looking for ways to grow and make an impact.
 - 🌱 I currently study information technology 
