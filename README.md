@@ -1,6 +1,7 @@
 # Hi, I'm Samuel Nangoli <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Dark%20Skin%20Tone.png" alt="Waving Hand Medium-Dark Skin Tone" width="34"/>
 I’m  a tech enthusiast and creative thinker who loves exploring new ideas and projects that challenge me to grow. My curiosity drives me to experiment with technology, learn new tools, and apply what I discover through hands-on projects. I also enjoy working  on video content — collaborating with friends and turning concepts into engaging visuals.
 I believe in learning by doing, adapting quickly, and staying open to new opportunities that expand both my skills and perspective. Whether it’s  diving into a new tech trend, creating digital content, or finding smarter ways to solve problems, I’m always looking for ways to grow and make an impact.
+
 - 🌱 I currently study information technology 
 - 🚀 Contributing to [FLICK](https://github.com/FlickHQ)
 - 📫 How to reach me: nangolisamuell@gmail.com 
@@ -16,6 +17,7 @@ I believe in learning by doing, adapting quickly, and staying open to new opport
 
 ### General Prupose Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CPP](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+
 
 ### Typesetting
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
