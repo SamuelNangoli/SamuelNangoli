@@ -8,9 +8,8 @@ I believe in learning by doing, adapting quickly, and staying open to new opport
 - [![committers.top badge](https://user-badge.committers.top/uganda/SamuelNangoli.svg)](https://user-badge.committers.top/uganda/SamuelNangoli)
 
 
-<img  alt="my stats" align = "left" width = "47%" src ="https://github-readme-stats.vercel.app/api?username=SamuelNangoli&bg_color=ffffff00&text_color=ffffff"/> 
-
-<img  alt="my stats" align = "left" width = "47%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelNangoli&layout=compact&bg_color=ffffff00&text_color=ffffff"/> 
+<img align="left" width="47%" src="https://github-readme-stats-umber-phi-65.vercel.app/api?username=SamuelNangoli&show_icons=true&theme=transparent&cache_seconds=86400" alt="Samuel's GitHub stats" />
+<img align="left" width="47%" src="https://github-readme-stats-umber-phi-65.vercel.app/api/top-langs/?username=SamuelNangoli&layout=compact&theme=transparent&cache_seconds=86400" alt="Top languages" />
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=SamuelNangoli&theme=transparent) 
 
