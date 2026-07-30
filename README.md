@@ -11,7 +11,7 @@ I believe in learning by doing, adapting quickly, and staying open to new opport
 <img align="left" width="47%" src="https://github-readme-stats-umber-phi-65.vercel.app/api?username=SamuelNangoli&show_icons=true&theme=transparent&cache_seconds=86400" alt="Samuel's GitHub stats" />
 <img align="left" width="47%" src="https://github-readme-stats-umber-phi-65.vercel.app/api/top-langs/?username=SamuelNangoli&layout=compact&theme=transparent&cache_seconds=86400" alt="Top languages" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SamuelNangoli&theme=transparent) 
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=SamuelNangoli&theme=transparent) 
 
 
 ### General Prupose Programming Languages
