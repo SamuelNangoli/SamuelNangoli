@@ -1,53 +1,173 @@
-# Hi, I'm Samuel Nangoli <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Dark%20Skin%20Tone.png" alt="Waving Hand Medium-Dark Skin Tone" width="34"/>
 
-I'm a tech enthusiast and creative thinker who loves exploring new ideas and projects that challenge me to grow. My curiosity drives me to experiment with technology, learn new tools, and apply what I discover through hands-on projects. I also enjoy working on video content — collaborating with friends and turning concepts into engaging visuals.
+<div align="center">
 
-I believe in learning by doing, adapting quickly, and staying open to new opportunities that expand both my skills and perspective. Whether it's diving into a new tech trend, creating digital content, or finding smarter ways to solve problems, I'm always looking for ways to grow and make an impact.
+# Hi, I'm Samuel Nangoli 👋
 
-- 🌱 I currently study information technology
-- 🚀 Contributing to [FLICK](https://github.com/FlickHQ)
-- 📫 How to reach me: nangolisamuell@gmail.com
-- [![committers.top badge](https://user-badge.committers.top/uganda/SamuelNangoli.svg)](https://user-badge.committers.top/uganda/SamuelNangoli)
+### Software Developer • AI & Robotics Enthusiast • Creative Technologist
 
-<img align="left" width="47%" src="https://github-readme-stats-umber-phi-65.vercel.app/api?username=SamuelNangoli&show_icons=true&theme=transparent&cache_seconds=86400" alt="Samuel's GitHub stats" />
-<img align="left" width="47%" src="https://github-readme-stats-umber-phi-65.vercel.app/api/top-langs/?username=SamuelNangoli&layout=compact&theme=transparent&cache_seconds=86400" alt="Top languages" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFAA00&center=true&vCenter=true&width=650&lines=Building+Solutions+Through+Technology;Software+Development+%7C+AI+%7C+Robotics;Learning%2C+Building%2C+Innovating" alt="Typing introduction" />
 
-<br clear="both"/>
+<br/>
 
-<img width="47%" src="https://github-readme-streak-stats-eight.vercel.app?user=SamuelNangoli&theme=transparent" alt="GitHub Streak" />
+![Profile Views](https://komarev.com/ghpvc/?username=SamuelNangoli&color=00E676&style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/SamuelNangoli?style=for-the-badge&color=FFAA00&labelColor=0D1117)
 
-<br clear="both"/>
+</div>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SamuelNangoli&theme=react-dark&bg_color=00000000&hide_border=true" alt="Activity Graph" />
+---
 
-<br clear="both"/>
+## 👨‍💻 About Me
+
+I'm **Samuel Nangoli**, an Information Technology student at **Uganda Christian University**, specializing in **Artificial Intelligence and Robotics**.
+
+I enjoy designing and developing software, exploring emerging technologies, solving real-world problems, and turning creative ideas into functional products.
+
+- 🎓 Studying Information Technology at UCU
+- 💻 Interested in full-stack software development
+- 🤖 Exploring AI, machine learning, and robotics
+- 🐧 Working with Linux, networking, and system administration
+- 🚀 Building projects including **Tereeza**, **FormRadar**, and **LeagueOn**
+- 🤝 Contributing to [FLICK](https://github.com/FlickHQ)
+- 📚 Learning through hands-on development and open source
+- 🎬 Interested in digital creativity and video production
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFAA00)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=FFAA00)
+![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=00E676)
+![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00E676)
+![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=sharp&logoColor=FFAA00)
+
+### Frontend Development
+
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=FFAA00)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css&logoColor=00E676)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00E676)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=00E676)
+
+### Backend & Databases
+
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=00E676)
+![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=FFAA00)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00E676)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=FFAA00)
+![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=00E676)
+
+### AI, Data Science & Robotics
+
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=FFAA00)
+![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=00E676)
+![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=FFAA00)
+![Arduino](https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=00E676)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0D1117?style=for-the-badge&logo=raspberrypi&logoColor=FFAA00)
+
+### Development & Infrastructure
+
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FFAA00)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&logoColor=FFAA00)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00E676)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFAA00)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00E676)
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=FFAA00)
+![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=00E676)
+![VMware](https://img.shields.io/badge/VMware-0D1117?style=for-the-badge&logo=vmware&logoColor=FFAA00)
+
+---
+
+## 🚀 Featured Projects
+
+### ⚽ FormRadar
+**AI-powered football match prediction platform**
+
+A football analytics application exploring match probabilities, team form, statistics, fixtures, and predictive modeling.
+
+### 🛠️ Tereeza
+**Technology troubleshooting and digital solutions**
+
+A technology brand focused on troubleshooting, computer maintenance, networking, and practical digital tools.
+
+🌐 [Visit Tereeza](https://tereeza.trenttech.online)
+
+### 🏆 LeagueOn
+**Football tournament management platform**
+
+A web application for managing football tournaments, teams, fixtures, standings, results, and competition analytics.
+
+🌐 [Explore LeagueOn](https://leagueon.trenttech.online)
+
+### 🔐 TrustPulse
+**Continuous Behavioral Biometric Authentication**
+
+A research prototype exploring keystroke and mouse dynamics to detect potential session takeover during online banking sessions.
+
+### 🛒 UniDeal
+**Campus marketplace platform**
+
+A student-focused digital marketplace designed to make buying and selling within university communities easier.
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats-umber-phi-65.vercel.app/api?username=SamuelNangoli&show_icons=true&theme=transparent&title_color=FFAA00&text_color=00E676&icon_color=FFAA00&hide_border=true&cache_seconds=86400" alt="Samuel's GitHub Statistics"/>
+
+<img width="49%" src="https://github-readme-stats-umber-phi-65.vercel.app/api/top-langs/?username=SamuelNangoli&layout=compact&theme=transparent&title_color=FFAA00&text_color=00E676&hide_border=true&cache_seconds=86400" alt="Most Used Languages"/>
+
+<br/>
+
+<img width="65%" src="https://github-readme-streak-stats-eight.vercel.app?user=SamuelNangoli&theme=transparent&ring=FFAA00&fire=FFAA00&currStreakLabel=00E676&sideLabels=FFAA00&hide_border=true" alt="GitHub Contribution Streak"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SamuelNangoli&bg_color=0D1117&color=FFAA00&line=00E676&point=FFAA00&area=true&area_color=00E676&hide_border=true" alt="GitHub Contribution Activity"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamuelNangoli/SamuelNangoli/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamuelNangoli/SamuelNangoli/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/SamuelNangoli/SamuelNangoli/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamuelNangoli/SamuelNangoli/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamuelNangoli/SamuelNangoli/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/SamuelNangoli/SamuelNangoli/output/github-contribution-grid-snake.svg"/>
 </picture>
 
-<br clear="both"/>
+</div>
 
-### General Prupose Programming Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CPP](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-### Typesetting
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
-### Libraries 
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
-### Front-End
- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAF) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-### Back-End
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![SQlite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![PostgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Docusaurus](https://img.shields.io/badge/Docusaurus-3ECC5F?style=for-the-badge&logo=Docusaurus&logoColor=white)
- 
-### UI/UX Design 
-![Dribble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white) ![Pexels](https://img.shields.io/badge/Pexels-05A081?style=for-the-badge&logo=pexels&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white) ![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white) ![Unsplash](https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white)
-### Learning
-![MDN WEB DOCs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white) ![Free Code Camp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white) ![Cisco Netacad](https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) ![Geeks for Geeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white) ![W3 Schools](https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white)
-### Community 
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white) ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black) ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-### Robotics 
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-### OS and Tools
-  ![VsCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Juypter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)  ![Hyper](https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white) ![VmWare](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white) ![Firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) ![Zed](https://img.shields.io/badge/Zed-white?style=for-the-badge&logo=zedindustries&logoColor=084CCF) ![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white) ![ZSH](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white) ![Arc Browser](https://img.shields.io/badge/Arc-1638FB?style=for-the-badge&logo=Arc&logoColor=white) ![TMux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
+---
+
+## 🌍 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FFAA00)](mailto:nangolisamuell@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E676)](https://github.com/SamuelNangoli)
+[![Tereeza](https://img.shields.io/badge/Tereeza-0D1117?style=for-the-badge&logo=googlechrome&logoColor=FFAA00)](https://tereeza.trenttech.online)
+
+</div>
+
+---
+
+<div align="center">
+
+### "Learn. Build. Innovate. Repeat."
+
+**Thanks for visiting my GitHub profile!**
+
+</div>
